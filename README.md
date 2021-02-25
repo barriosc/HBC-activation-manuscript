@@ -25,6 +25,10 @@
 
 
 
-Contributors:
+### Contributors:
 
-Camila M. Barrios Camacho, Matthew J. Zunitch, Jonathan D. Louie,  Woochan Jang,  James E. Schwob
+Camila M. Barrios Camacho <br>
+Matthew J. Zunitch<br>
+Jonathan D. Louie<br>
+Woochan Jang<br>
+James E. Schwob
