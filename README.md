@@ -1,6 +1,6 @@
 # HBC-activation-manuscript
 
-### This ReadMe file contains all of the data, code, and analyses carried out of the manuscript. These can be downloaded as a collective to reproduce all of the analyses and plots. 
+### This depository file contains all of the code and analyses carried out for the HBC activation manuscript. These can be downloaded as a collective to reproduce all of the analyses and plots. 
 
 
 
