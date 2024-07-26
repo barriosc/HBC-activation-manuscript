@@ -5,7 +5,7 @@
 Barrios-Camacho et al., An in vitro model of acute horizontal basal cell activation reveals gene regulatory
 networks underlying the nascent activation phase, Stem Cell Reports (2024), https://doi.org/10.1016/j.stemcr.2024.06.011
 
-These can be downloaded as a collective to reproduce all of the analyses and plots. Please report any inconsistencies/bugs/comments to the first author at barriosc@upenn.edu. Inconsistencies will be publicly reported and communicated to users promptly. ###
+These can be downloaded as a collective to reproduce all of the analyses and plots. Please report any inconsistencies/bugs/comments to the first author at barriosc@upenn.edu. Inconsistencies will be publicly reported and communicated to users promptly. 
 
 Citation for manuscript:
 
